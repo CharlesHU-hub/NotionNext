@@ -17,7 +17,7 @@ const BLOG = {
   AUTHOR: process.env.NEXT_PUBLIC_AUTHOR || '行方春迄', // 您的昵称 例如 tangly1024
   BIO: process.env.NEXT_PUBLIC_BIO || '正尝试建站', // 作者简介
   LINK: process.env.NEXT_PUBLIC_LINK || 'https://yukue-harumade.com', // 网站地址
-  KEYWORDS: process.env.NEXT_PUBLIC_KEYWORD || '还不知道用什么关键词', // 网站关键词 英文逗号隔开
+  KEYWORDS: process.env.NEXT_PUBLIC_KEYWORD || '语言学&观鸟&外语学习', // 网站关键词 英文逗号隔开
   BLOG_FAVICON: process.env.NEXT_PUBLIC_FAVICON || '/favicon.ico', // blog favicon 配置, 默认使用 /public/favicon.ico，支持在线图片，如 https://img.imesong.com/favicon.png
   BEI_AN: process.env.NEXT_PUBLIC_BEI_AN || '', // 备案号 闽ICP备XXXXXX
   BEI_AN_LINK: process.env.NEXT_PUBLIC_BEI_AN_LINK || '', // 备案查询链接，如果用了萌备等备案请在这里填写
