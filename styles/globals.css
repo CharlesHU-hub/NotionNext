@@ -298,3 +298,7 @@ img {
   @keyframes l1 {
   0% {background-position: right}
 }
+
+.react-share {
+  margin-top: 2rem !important;
+}
